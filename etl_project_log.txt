@@ -1,0 +1,12 @@
+2024-03-07 13:37:58: ETL Process Started.
+2024-03-07 13:37:58: Extraction Started.
+2024-03-07 13:38:01: Extraction Completed.
+2024-03-07 13:38:01: Transformation Started.
+2024-03-07 13:38:01: Transformation Completed.
+2024-03-07 13:38:01: Loading to CSV Started.
+2024-03-07 13:38:01: Loading to CSV Completed.
+2024-03-07 13:38:01: Loading to SQL DB Started.
+2024-03-07 13:38:01: Loading to SQL DB Completed.
+2024-03-07 13:38:01: Query Output from SQL DB.
+2024-03-07 13:38:01: Close Query Connection.
+2024-03-07 13:38:01: ETL Process Completed.
